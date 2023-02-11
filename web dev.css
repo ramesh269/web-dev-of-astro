@@ -1,0 +1,225 @@
+*{
+    margin:1px;
+    padding:1px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+}
+.nav-list{
+    width:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-list li{
+    list-style: none;
+    width:50%;
+    align-items: right;
+    padding: 28px 40px;
+}
+
+.nav-list li a{
+    text-decoration:none;
+    color:white;
+}
+.nav-list li a:hover{
+    text-decoration:none;
+    color:orange;
+}
+.rightnav{
+    width:50%;
+    text-align: right;
+    padding: 0 23px;
+}
+#search{
+    padding: 5px;
+    font-size: 17px; 
+    border: 2px solid grey;
+    border-radius: 9px;
+}
+.background{
+    background: rgba(0 , 0 , 0 , 0.7) url('bg2.webp');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.firstsection{
+    height: 100vh;
+}
+.box-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 50%;
+    margin: auto;
+         height: 85%;
+}
+.firsthalf{
+    width:80;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+}
+.text-big{
+    font-size: 90px;
+}
+.text-small{
+    font-size: 15px;
+    text-align: right;
+}
+.secright{
+    height:500px;
+    display:flex;
+    align-items: center;
+    justify-content:flex-start;
+    max-width:60%;
+    margin: auto;
+
+}
+.txt-big{
+    font-size: 45px;
+}
+.txt-small{
+    font-size: 25px;
+}
+.section{
+    height:500px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+    max-width: 60%;
+    margin: auto;
+}
+.t-big{
+    font-size: 45px;
+}
+.t-small{
+    font-size: 25px;
+}
+.secleft{
+    height:500px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+    max-width: 60%;
+    margin: auto;
+}
+.x-big{
+    font-size: 38px;
+}
+.x-small{
+    font-size: 15px;
+}
+.left{
+    height:500px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+    max-width: 60%;
+    margin: auto;
+}
+.e-big{
+    font-size: 38px;
+}
+.e-small{
+    font-size: 15px;
+}
+.right{
+    height:500px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+    max-width: 60%;
+    margin: auto;
+}
+.te-big{
+    font-size: 38px;
+}
+.te-small{
+    font-size: 15px;
+}
+.L{
+    height:500px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+    max-width: 60%;
+    margin: auto;
+}
+.tt-big{
+    font-size: 38px;
+}
+.tt-small{
+    font-size: 15px;
+}
+.R{
+    height:500px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+    max-width: 60%;
+    margin: auto;
+}
+.ee-big{
+    font-size: 38px;
+}
+.ee-small{
+    font-size: 15px;
+}
+.Top{
+    height:1300px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+    max-width: 60%;
+    margin: auto;
+}
+.TEXT-big{
+    font-size: 38px;
+}
+.TEXT-small{
+    font-size: 15px;
+}
+.bottom{
+    height:500px;
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+    max-width: 60%;
+    margin: auto;
+}
+.Text-big{
+    font-size: 38px;
+}
+.Text-small{
+    font-size: 15px;
+}
+.text-footer{
+    text-align: center;
+    padding: 30px 0;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+
+        
